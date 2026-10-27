@@ -1,12 +1,14 @@
 #key	value
-name	Aztra Realtors
+name	V Raveendar & Associates
 byline	Building Trust, Brick by Brick
-safeName	aztra-real-estate
+safeName	aztras-vra
 footer-message	A conscious network for **property (real estate)** buying / selling / consulting / developing led by the seasoned team of **V Raveendar and Associates**, headquartered in Chennai, <u>Tamil Nadu</u>, India.
-iconName	Aztra Realtors
-siteMenuName	Real Estate
+iconName	VRA - Aztras Realtors
+siteMenuName	VRA Home
+description	V Raveendar & Associates - Aztras Realtors
+notes	Flagship Company of RRR Family
 scaffold	sitemap
 sections	properties: vra, insights
-local-url	http://localhost/aztras/businesses/realtors/
-live-url	https://realtors.aztras.com/
+local-url	http://localhost/sites/aztras/realty/vra/
+live-url	https://vra.aztras.com/
 year	2025
